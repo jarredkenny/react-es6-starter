@@ -1,7 +1,7 @@
 {
-  "name": "react-es6-starter",
+  "name": "reaction",
   "version": "1.0.0",
-  "description": "A basic react webpack setup with ES6 syntax and module support through babel, and a component hot loader.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

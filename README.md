@@ -6,7 +6,7 @@ A basic react webpack setup with ES6 syntax and module support through babel, an
 
 Serve
 -----
-`webpack-dev-server`
+`webpack-dev-server --hot`
 
 Build
 -----
